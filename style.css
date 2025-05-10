@@ -1,0 +1,71 @@
+body {
+  background-color: #fff8dc;
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  color: #a0522d;
+}
+p {
+}
+a {
+  color: #ffffff;
+  background-color: #a0522d;
+  text-decoration: none;
+  border: 1px solid #a0522d;
+  border-radius: 30px;
+  padding: 10px;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+ul li {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.lapras-image {
+  width: 600px;
+  float: left;
+  padding: 25px;
+}
+.lapras-info {
+  overflow: hidden;
+  background-image: url("https://learn.logikaschool.com/uploads/student/2801007/681cf08d523ae.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 450px;
+  font-family: Gabriola;
+  color: #a0522d;
+  font-size: 21px;
+  text-align: center;
+  padding: 100px;
+  box-sizing: border-box;
+}
+.story {
+  font-family: Gabriola;
+  font-size: 30px;
+  text-align: center;
+  color: #a0522d;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.Title-story {
+  text-align: center;
+  color: #a0522d;
+  padding: 35px;
+  font-size: 26px;
+  clear: both;
+}
+.lapras-in-water {
+  width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 70px;
+}
